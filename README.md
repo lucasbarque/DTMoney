@@ -20,7 +20,7 @@
 </div>
 
 <!-- Sobre o Projeto -->
-## 🚀 Sobre o Projeto
+## 🧐 Sobre o Projeto
 DT Money é um controle de contas financeiro pessoal que cadastra contas de entrada e saída, totaliza em cards utilizando uma biblioteca de Fake API MirajeJS que utiliza o formato JSON para fazer os cadastros. 
 
 ## 🚀 Tecnologias e Bibliotecas
