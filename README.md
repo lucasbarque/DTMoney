@@ -1,6 +1,6 @@
 <!-- Logotipo -->
 <div align="center">
-  <img src=".github/ignite.png">
+  <img src="assets/ignite.png">
 </div>
 
 <!-- Title -->
@@ -8,7 +8,7 @@
 
 <!-- Logo -->
 <div align="center">
-  <img src=".github/logo.svg">
+  <img src="assets/logo.svg">
 </div>
 
 <!-- Subtitle -->
@@ -16,7 +16,7 @@
 
 <!-- Preview -->
 <div align="center">
-  <img src=".github/dt.money.gif">
+  <img src="assets/dt.money.gif">
 </div>
 
 <!-- Sobre o Projeto -->
