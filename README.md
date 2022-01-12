@@ -1,6 +1,6 @@
 <!-- Logotipo -->
 <div align="center">
-  <img src="assets/ignite.png">
+  <img src="https://i.ibb.co/vXPnm4F/ignite.png">
 </div>
 
 <!-- Title -->
@@ -8,7 +8,7 @@
 
 <!-- Logo -->
 <div align="center">
-  <img src="assets/logo.svg">
+  <img src="https://i.ibb.co/tzhcB5f/logo.png">
 </div>
 
 <!-- Subtitle -->
@@ -16,7 +16,7 @@
 
 <!-- Preview -->
 <div align="center">
-  <img src="assets/dt.money.gif">
+  <img src="https://i.ibb.co/v1tnSj1/dt-money.gif">
 </div>
 
 <!-- Sobre o Projeto -->
