@@ -4,7 +4,7 @@
 </div>
 
 <!-- Title -->
-<h1 align="center"> RocketSeat 🔥 Ignite ReactJS </h1>
+<h1 align="center"> Rocketseat 🔥 Ignite ReactJS </h1>
 
 <!-- Logo -->
 <div align="center">
